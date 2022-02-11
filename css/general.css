@@ -11,3 +11,17 @@
     width: 70px;
     height: 120px;
 }
+
+.btn-primary{
+    border: 2px solid white;
+    color: white;
+    background-color: red;
+
+}
+
+.btn-primary:hover{
+    border: 2px solid black;
+    color: black;
+    background-color: red;
+
+}

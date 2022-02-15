@@ -1,0 +1,29 @@
+.centrado {
+    width: 50%;
+    border: black 3px solid;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.textocentrado {
+
+    text-align:center;
+    
+}
+
+.textocentrado1 {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+  
+}
+
+
+#imagen {
+   
+    width: 400px;
+    height: 300px;
+}
